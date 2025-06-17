@@ -2,211 +2,211 @@
   "durations": [
     {
       "spec": "cypress/integration/other/configuration.spec.js",
-      "duration": 5547
+      "duration": 5462
     },
     {
       "spec": "cypress/integration/other/external-diagrams.spec.js",
-      "duration": 1969
+      "duration": 1948
     },
     {
       "spec": "cypress/integration/other/ghsa.spec.js",
-      "duration": 3263
+      "duration": 3014
     },
     {
       "spec": "cypress/integration/other/iife.spec.js",
-      "duration": 1982
+      "duration": 1903
     },
     {
       "spec": "cypress/integration/other/interaction.spec.js",
-      "duration": 11158
+      "duration": 10866
     },
     {
       "spec": "cypress/integration/other/rerender.spec.js",
-      "duration": 1865
+      "duration": 1867
     },
     {
       "spec": "cypress/integration/other/xss.spec.js",
-      "duration": 26188
+      "duration": 25968
     },
     {
       "spec": "cypress/integration/rendering/appli.spec.js",
-      "duration": 2599
+      "duration": 2518
     },
     {
       "spec": "cypress/integration/rendering/architecture.spec.ts",
-      "duration": 118
+      "duration": 102
     },
     {
       "spec": "cypress/integration/rendering/block.spec.js",
-      "duration": 15070
+      "duration": 14666
     },
     {
       "spec": "cypress/integration/rendering/c4.spec.js",
-      "duration": 4719
+      "duration": 4521
     },
     {
       "spec": "cypress/integration/rendering/classDiagram-elk-v3.spec.js",
-      "duration": 35436
+      "duration": 35117
     },
     {
       "spec": "cypress/integration/rendering/classDiagram-handDrawn-v3.spec.js",
-      "duration": 33736
+      "duration": 32795
     },
     {
       "spec": "cypress/integration/rendering/classDiagram-v2.spec.js",
-      "duration": 19957
+      "duration": 19980
     },
     {
       "spec": "cypress/integration/rendering/classDiagram-v3.spec.js",
-      "duration": 32106
+      "duration": 31226
     },
     {
       "spec": "cypress/integration/rendering/classDiagram.spec.js",
-      "duration": 13262
+      "duration": 13255
     },
     {
       "spec": "cypress/integration/rendering/conf-and-directives.spec.js",
-      "duration": 7912
+      "duration": 7913
     },
     {
       "spec": "cypress/integration/rendering/current.spec.js",
-      "duration": 2148
+      "duration": 2083
     },
     {
       "spec": "cypress/integration/rendering/erDiagram-unified.spec.js",
-      "duration": 76530
+      "duration": 74845
     },
     {
       "spec": "cypress/integration/rendering/erDiagram.spec.js",
-      "duration": 12577
+      "duration": 12360
     },
     {
       "spec": "cypress/integration/rendering/errorDiagram.spec.js",
-      "duration": 2806
+      "duration": 2678
     },
     {
       "spec": "cypress/integration/rendering/flowchart-elk.spec.js",
-      "duration": 35633
+      "duration": 35519
     },
     {
       "spec": "cypress/integration/rendering/flowchart-handDrawn.spec.js",
-      "duration": 26421
+      "duration": 25874
     },
     {
       "spec": "cypress/integration/rendering/flowchart-shape-alias.spec.ts",
-      "duration": 21094
+      "duration": 20760
     },
     {
       "spec": "cypress/integration/rendering/flowchart-v2.spec.js",
-      "duration": 36873
+      "duration": 37284
     },
     {
       "spec": "cypress/integration/rendering/flowchart.spec.js",
-      "duration": 25870
+      "duration": 25053
     },
     {
       "spec": "cypress/integration/rendering/gantt.spec.js",
-      "duration": 15183
+      "duration": 15041
     },
     {
       "spec": "cypress/integration/rendering/gitGraph.spec.js",
-      "duration": 44015
+      "duration": 44232
     },
     {
       "spec": "cypress/integration/rendering/iconShape.spec.ts",
-      "duration": 246469
+      "duration": 238316
     },
     {
       "spec": "cypress/integration/rendering/imageShape.spec.ts",
-      "duration": 50315
+      "duration": 50022
     },
     {
       "spec": "cypress/integration/rendering/info.spec.ts",
-      "duration": 2434
+      "duration": 2517
     },
     {
       "spec": "cypress/integration/rendering/journey.spec.js",
-      "duration": 3221
+      "duration": 3134
     },
     {
       "spec": "cypress/integration/rendering/kanban.spec.ts",
-      "duration": 6278
+      "duration": 6131
     },
     {
       "spec": "cypress/integration/rendering/katex.spec.js",
-      "duration": 3053
+      "duration": 2955
     },
     {
       "spec": "cypress/integration/rendering/marker_unique_id.spec.js",
-      "duration": 2574
+      "duration": 2423
     },
     {
       "spec": "cypress/integration/rendering/mindmap.spec.ts",
-      "duration": 9254
+      "duration": 9103
     },
     {
       "spec": "cypress/integration/rendering/newShapes.spec.ts",
-      "duration": 133602
+      "duration": 129870
     },
     {
       "spec": "cypress/integration/rendering/oldShapes.spec.ts",
-      "duration": 100697
+      "duration": 99615
     },
     {
       "spec": "cypress/integration/rendering/packet.spec.ts",
-      "duration": 3434
+      "duration": 3328
     },
     {
       "spec": "cypress/integration/rendering/pie.spec.ts",
-      "duration": 5025
+      "duration": 4718
     },
     {
       "spec": "cypress/integration/rendering/quadrantChart.spec.js",
-      "duration": 7510
+      "duration": 7391
     },
     {
       "spec": "cypress/integration/rendering/radar.spec.js",
-      "duration": 4633
+      "duration": 4636
     },
     {
       "spec": "cypress/integration/rendering/requirement.spec.js",
-      "duration": 2176
+      "duration": 2090
     },
     {
       "spec": "cypress/integration/rendering/requirementDiagram-unified.spec.js",
-      "duration": 46636
+      "duration": 46531
     },
     {
       "spec": "cypress/integration/rendering/sankey.spec.ts",
-      "duration": 5866
+      "duration": 5690
     },
     {
       "spec": "cypress/integration/rendering/sequencediagram.spec.js",
-      "duration": 32327
+      "duration": 31537
     },
     {
       "spec": "cypress/integration/rendering/stateDiagram-v2.spec.js",
-      "duration": 22643
+      "duration": 22345
     },
     {
       "spec": "cypress/integration/rendering/stateDiagram.spec.js",
-      "duration": 14158
+      "duration": 14075
     },
     {
       "spec": "cypress/integration/rendering/theme.spec.js",
-      "duration": 26023
+      "duration": 25730
     },
     {
       "spec": "cypress/integration/rendering/timeline.spec.ts",
-      "duration": 5918
+      "duration": 5921
     },
     {
       "spec": "cypress/integration/rendering/xyChart.spec.js",
-      "duration": 9604
+      "duration": 9190
     },
     {
       "spec": "cypress/integration/rendering/zenuml.spec.js",
-      "duration": 2677
+      "duration": 2621
     }
   ]
 }
